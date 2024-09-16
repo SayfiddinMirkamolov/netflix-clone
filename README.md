@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://sammi-netflix.vercel.app](https://sammi-netflix.vercel.app)
+
 
 <h2>🧐 Features</h2>
 
